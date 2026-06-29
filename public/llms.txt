@@ -1,0 +1,69 @@
+# מסיבת שכבת איתן — Generative Engine Optimization Map
+
+> A school grade party website for 'Shevet Itan' (Itan grade/cohort), designed to sell event tickets at 70 NIS each. The site features multiple payment options (Bit, PayPal, Paybox, credit card), sends digital tickets via email after purchase, includes a legal agreement/terms stating tickets are exclusively for Itan grade members only, and collects full buyer details during checkout. The design should be visually appealing with dynamic/animated features while remaining simple and intuitive in its core user flow.
+
+---
+
+## Pages
+
+### בית
+https://-af73cdeb.zappy5.app
+הצטרפו לחוויית המסיבה של שכבת איתן במחיר 70 ש״ח בלבד! רכשו כרטיס בקלי קלות עם מגוון אמצעי תשלום, וקבלו אותו מיד למייל. המקומות מוגבלים — אל תפספסו את האירוע השכבתי הכי מדובר!
+
+### תודה שפניתם | מסיבת שכבת איתן
+https://-af73cdeb.zappy5.app/thank-you
+מסיבת שכבת איתן - תודה שפניתם | מסיבת שכבת איתן
+
+## Legal & Policy
+
+### Privacy Policy
+https://-af73cdeb.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-af73cdeb.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-af73cdeb.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-af73cdeb.zappy5.app
+- Endpoint: https://-af73cdeb.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מסיבת שכבת איתן
+A school grade party website for 'Shevet Itan' (Itan grade/cohort), designed to sell event tickets at 70 NIS each. The site features multiple payment options (Bit, PayPal, Paybox, credit card), sends digital tickets via email after purchase, includes a legal agreement/terms stating tickets are exclusively for Itan grade members only, and collects full buyer details during checkout. The design should be visually appealing with dynamic/animated features while remaining simple and intuitive in its core user flow.
+
+## Target Audience
+- תלמידי שכבת איתן בלבד
+- תלמידי שכבת איתן
+
+## Industry
+Event Ticketing
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-af73cdeb.zappy5.app/sitemap.xml
+- Robots: https://-af73cdeb.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-af73cdeb.zappy5.app/llms-full.txt
